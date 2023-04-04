@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**MatheusRodrigues-Dev/MatheusRodrigues-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, Eu sou Matheus
 
-Here are some ideas to get you started:
+Um sou um desenvolvedor web em aprendizado. Com o objetivo de projetar e desenvolver aplicativos da web completos, desde a interface do usuário até o back-end e o banco de dados. Utilizando as habilidades técnicas em todas as camadas da arquitetura de um aplicativo da web, incluindo HTML, CSS, JavaScript para a camada front-end, bem como tecnologias do lado do servidor, como PHP e Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-rodrigues-771988214//)
+
+
+## 🛠 Habilidades
+Javascript, HTML, CSS, PHP e Bootstrap
+
