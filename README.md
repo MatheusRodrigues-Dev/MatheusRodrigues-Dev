@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Matheus Rodrigues</h1>
 <h3 align="center">
   Web Developer passionate about building complete web applications — from intuitive user interfaces to scalable backends and efficient databases.  
-  Skilled in **HTML, Tailwind CSS, Jquery**, and experienced with **PHP, Laravel, Node.js**, and relational databases like **MySQL**.  
-  Also exploring **data analysis with Python** to expand my knowledge in software engineering and applied computing.
+  Skilled in __HTML, Tailwind CSS, Jquery__, and experienced with __PHP, Laravel, Node.js__, and relational databases like __MySQL__.  
+  Also exploring __data analysis with Python__ to expand my knowledge in software engineering and applied computing.
 </h3>
 
 <p align="center">
