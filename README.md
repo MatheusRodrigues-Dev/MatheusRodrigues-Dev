@@ -178,12 +178,17 @@ Full-stack learning project developed during Rocketseat's NLW ecosystem.
 
 ---
 
-## 📊 GitHub activity
+## 🧭 GitHub at a glance
+
+| 🔬 Research & UX | 💻 Software Engineering | 🌐 IoT & Applied Systems |
+| --- | --- | --- |
+| Repository mining, usability and academic research | Web, mobile, APIs, architecture and internal platforms | ESP32, connected products and real-world integrations |
+
+My repositories reflect a mix of **academic exploration, professional learning and practical software development**. Public projects are available here, while several current systems remain private because they are connected to company operations and proprietary products.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MatheusRodrigues-Dev&show_icons=true&hide_border=true&rank_icon=github" alt="Matheus Rodrigues GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRodrigues-Dev&layout=compact&hide_border=true&langs_count=8" alt="Most used languages" />
+[**Explore all public repositories →**](https://github.com/MatheusRodrigues-Dev?tab=repositories)
 
 </div>
 
